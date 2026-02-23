@@ -1,0 +1,14 @@
+# .env
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+/server.cfg
+/resources
+/artifacts
+/tmp
+/logs
+/cache
+/db
+/.replxx_history
